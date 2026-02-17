@@ -51,7 +51,7 @@
     },
     build: {
       target: 'esnext',
-      outDir: 'build',
+      outDir: 'dist',  // 'build'에서 'dist'로 변경
     },
     server: {
       port: 3000,
