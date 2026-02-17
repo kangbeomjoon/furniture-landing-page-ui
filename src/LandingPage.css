@@ -11,7 +11,7 @@
   --color-white: #FFFFFF;
   --color-border: #E5E5E5;
   
-  --font-serif: 'Playfair Display', serif;
+  --font-serif: 'Playfair Display', 'Noto Serif KR', serif;
   --font-sans: 'Inter', sans-serif;
   
   --spacing-xs: 4px;
